@@ -1,0 +1,39 @@
+randomWalk
+========================================================
+author: JAM
+date: 3 Feb 2018
+autosize: true
+
+Context
+========================================================
+
+
+* This was built for the course: **Developing Data Products** as part of the Coursera Data Science Specialization.
+
+
+Description
+========================================================
+
+A random walk is a mathematical object, known as a stochastic or random process, 
+that describes a path that consists of a succession of random steps. In this case steps a 2D path,
+having a step size that varies according to a normal distribution.
+This is something that is used as a model for real-world time series data such as financial markets.
+
+Input
+========================================================
+* This application has an integer, from 10 to 1000, as input value. It is the number of steps of our random walk.
+* Rser can set this value using a given slider.
+* A run button is also shown in order to run the simulation again.
+
+Output
+========================================================
+* This application plots a 2D plot in which the path is shown.
+
+
+Code repository
+========================================================
+* The shiny app developed for this assignment is avalilable at: https://jam77.shinyapps.io/randomWalk/
+
+* The source codes of ui.R and server.R and also Rpresentation are available on the GitHub repo:
+https://github.com/JamAtGit/developingDataProducts
+
