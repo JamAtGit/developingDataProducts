@@ -22,7 +22,7 @@ This is something that is used as a model for real-world time series data such a
 Input
 ========================================================
 * This application has an integer, from 10 to 1000, as input value. It is the number of steps of our random walk.
-* Rser can set this value using a given slider.
+* User can set this value using a given slider.
 * A run button is also shown in order to run the simulation again.
 
 Output
